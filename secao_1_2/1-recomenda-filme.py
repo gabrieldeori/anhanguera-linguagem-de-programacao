@@ -9,7 +9,6 @@ if idade < 12:
     if QUANTIDADE_INGRESSOS > 0:
         print("Ingressos disponíveis.")
 
-
 elif idade < 18:
     print("Recomendamos:")
     print("2. Filme B;")
