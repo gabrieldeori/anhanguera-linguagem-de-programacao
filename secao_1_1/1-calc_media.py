@@ -12,6 +12,6 @@ media = soma_total / QUANTIDADE_NOTAS
 print(f'Média: {media}')
 
 if media >= 6:
-    print("Aprovado")
+    print('Aprovado')
 else:
-    print("Reprovado")
+    print('Reprovado')
