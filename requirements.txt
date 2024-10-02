@@ -1,3 +1,4 @@
+ipython
 lxml
 matplotlib
 numpy
