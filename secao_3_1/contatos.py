@@ -22,6 +22,7 @@ dados_exemplo = [
 cursor.executemany('INSERT INTO Contatos (nome, email, telefone) VALUES (?, ?, ?)', dados_exemplo)
 conn.commit()
 
+
 def read_contacts(cursor):
     cursor.execute('SELECT * FROM Contatos')
     contatos = cursor.fetchall()
