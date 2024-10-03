@@ -1,4 +1,5 @@
 ipython
+kivymd
 lxml
 matplotlib
 numpy
